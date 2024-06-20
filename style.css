@@ -98,6 +98,15 @@ margin-left: 76px;
 
 }
 
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+}
+
 button {
     background: rgba(192, 114, 18, 1);
     color: aliceblue;
